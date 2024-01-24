@@ -1,0 +1,25 @@
+Este directorio contiene todas las clases del dominio.
+
+>Alfabetos: Clase que gestiona los alfabetos
+
+>Algoritmo: Clase que gestiona los algoritmos
+
+>Entrada: Clase que gestiona los inputs
+
+>GilmoreLawler: Clase que tiene un algoritmo
+
+>Hungarian: Clase que tiene un algoritmo
+
+>ListaDeFrecuencias: Clase que gestiona las listas de frecuencias como input
+
+>Pair: Clase auxiliar para crear pairs
+
+>Posicion: Clase auxiliar para crear posiciones
+
+>Qap: Clase que tiene un algoritmo
+
+>SimulatedAnnealing: Clase que tiene un algoritmo
+
+>Teclado: Clase que gestiona el teclado
+
+>Texto: Clase que gestiona los textos como input

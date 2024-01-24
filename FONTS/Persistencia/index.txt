@@ -1,0 +1,7 @@
+Este directorio las clases utilizadas para guardar los datos en persistencia.
+
+>GestionAlfabetos: Logica para guardar los alfabetos en persistencia.
+
+>GestionEntradas: Logica para guardar las entradas en persistencia.
+
+>GestionTeclados: Logica para guardar los teclados en persistencia.

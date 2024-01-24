@@ -1,0 +1,13 @@
+Directorio que contiene las librerías externas usadas en el proyecto.
+
+>Junit-4.13.2.jar: Contiene la libreria Junit.
+
+>Mockito-core-4.11.0.jar: Contiene la libreria Mockito.
+
+>Byte-buddy-1.12.19.jar: Contiene la libreria Byte-buddy.
+
+>Byte-buddy-agent-1.12.19.jar: Contiene la libreria Byte-buddy.
+
+>Objenesis-3.3.jar: Contiene la libreia Objenesis.
+
+>Hamcrest-core-1.3.jar: Contiene la libreria Hamcrest.

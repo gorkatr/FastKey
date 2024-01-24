@@ -1,0 +1,21 @@
+En este directorio estan todas las clases con las excepciones creadas.
+
+>RecomendarExcepcion: Clase que hace de padre de todas las demas excepciones.
+
+>RutaNoValida: Se ejecuta cuando la ruta dada por el usuario no sea valida o el input no acabe en .txt
+
+>InputNoValido: Se ejecuta cuando el input no es valido porque esta vacio
+
+>LimiteAlgoritmos: Se ejecuta cuando el alfabeto tiene mas de 30 caracteres
+
+>LimiteQAP: Se ejecuta cuando el alfabeto tiene mas de 10 caracteres y se quiere usar el algoritmo QAP
+
+>ListaNoValida: Se ejecuta cuando una lista no tiene el formato correcto
+
+>NoExisteTeclado: Se ejecuta cuando no existe el teclado
+
+>OpcionNoDisponible: Se ejecuta cuando la opcion escogida por el usuario no es valida
+
+>TecladoYaExiste: Se ejecuta cuando el teclado en cuestion ya existe
+
+>Usage: Se ejecuta cuando las opciones del driver no son validas

@@ -1,0 +1,309 @@
+Este documento contiene los teclados generados a partir de los distintos 
+juegos de prueba que hemos creado. 
+
+¡TODOS LOS RESULTADOS GENERADOS SÓN CON ALFABETOS PERSONALIZADOS!
+Excepto los que se indican que no lo son.
+Esto es porque si se escoge un idioma como alfabeto y no se usan
+todas las letras la variación entre los posibles teclados resultantes
+es muy alta.
+
+
+Juego de prueba: textoCortoCatalan.txt
+Objeto de la prueba: comprobar que un texto corto en catalan funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con el texto de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar el texto de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando textoCortoCatalán y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el catalán
+           como alfabeto.
+
+posibles resultados:
+QAP:
+c a l ç o t s
+
+Annealing:
+c a l ç o t s
+
+
+Juego de prueba: textoLargoCatalan.txt
+Objeto de la prueba: comprobar que un texto largo en catalan funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con el texto de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar el texto de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando textoLargoCatalán y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el catalán
+           como alfabeto.
+
+posibles resultados:
+QAP:
+j ç b m t a r d p z
+f h x c o n e u g q
+      v i s l
+
+Annealing:
+f q l s e u d q z j
+v b c o r n i x h ç
+      m t a g
+
+
+
+Juego de prueba: textoCortoEspañol.txt
+Objeto de la prueba: comprobar que un texto corto en español funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con el texto de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar el texto de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando textoCortoEspañol y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el español
+           como alfabeto.
+
+posibles resultados:
+Annealing:
+e s p a ñ o l
+
+QAP:
+p s a ñ o l e
+
+
+Juego de prueba: textoLargoEspañol.txt
+Objeto de la prueba: comprobar que un texto largo en español funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con el texto de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar el texto de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando textoLargoEspañol y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el español
+           como alfabeto.
+
+posibles resultados:
+Annealing:
+ñ h p c o d u q j z
+y v m i r e n g f x
+    b l a s t
+
+QAP:
+z y g p o r s t f j
+x ñ h m i a e n u q
+    v b c l d
+
+...
+
+
+Juego de prueba: textoCortoIngles.txt
+Objeto de la prueba: comprobar que un texto corto en ingles funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con el texto de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar el texto de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando textoCortoIngles y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el ingles
+           como alfabeto.
+
+posibles resultados:
+Annealing:
+h s o r t
+
+QAP:
+s h o r t
+
+...
+
+
+Juego de prueba: textoLargoIngles.txt
+Objeto de la prueba: comprobar que un texto largo en ingles funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con el texto de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar el texto de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando textoLargoIngles y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el ingles
+           como alfabeto.
+
+posibles resultados:
+Annealing:
+z v w h e r u p j q
+k y l a t s o f b x
+    c m i n d g
+
+QAP:
+q j f p o r n d y x
+z w g u s a e l v k
+    b m t i h c
+
+...
+
+
+Juego de prueba: listaEspañol.txt
+Objeto de la prueba: comprobar que una lista de palabras en español funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada de tipo Lista con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con la lista de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar la lista de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando listaEspañol y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el español
+           como alfabeto.
+
+posibles resultados:
+Annealing:
+l o ñ a p s e
+
+QAP:
+o ñ a p s e l
+
+...
+
+
+Juego de prueba: listaIngles.txt
+Objeto de la prueba: comprobar que una lista de palabras en ingles funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada de tipo Lista con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con la lista de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar la lista de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando listaIngles y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el ingles
+           como alfabeto.
+
+posibles resultados:
+Annealing:
+l i s t h a
+
+QAP:
+l i s t h a
+
+...
+
+
+Juego de prueba: listaCatalan.txt
+Objeto de la prueba: comprobar que una lista de palabras en catalan funciona correctamente
+Ficheros de datos necesarios: habrá que crear una entrada de tipo Lista con este texto que se
+                              guardara automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con la lista de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar la lista de prueba.
+Operativa: Se ejecuta el programa, se creará una entrada importando listaCatalan y se
+           usará solamente esa entrada para crear un teclado con alguno de los dos algoritmos
+           y con el alfabeto personalizado. También se comprobará que se puede escoger el catalan
+           como alfabeto.
+
+posibles resultados:
+Anneling:
+s t o ç l c a p e r
+
+QAP:
+r e p s o t ç l c a
+
+...
+
+Juego de prueba: textoCortoCatalan.txt + textoCortoEspañol.txt
+Objeto de la prueba: comprobar que se pueden crear varios teclados con distintas entradas
+Ficheros de datos necesarios: habrá que crear varias entradas con distintos textos que se
+                              guardaran automáticamente en Entradas.ser
+Valores estudiados: Caja negra. Se estudia el resultado de la ejecución del programa
+                    con las distintas entradas de prueba.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar las entradas de prueba.
+Operativa: Se ejecuta el programa, se crearan varias entradas o se usaran entradas ya creadas
+           y se creará un teclado con esas entradas.
+
+posibles resultados:
+QAP:
+p c a ñ l ç o t s e
+
+Annealing:
+ñ c a l ç o t s p e
+
+
+Juego de prueba: listaIncorrecta.txt
+Objeto de la prueba: comprobar que una lista de palabras incorrecta no se admite como entrada
+Valores estudiados: Caja blanca. Se estudia el código para ver que se comprueba que la lista
+                    no es correcta.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar la lista de prueba.
+Operativa: Se ejecuta el programa, se intentará crear una entrada importando listaIncorrecta y se
+           verá que no se puede guardar la entrada porque la lista no es correcta.
+
+
+Juego de prueba: demasiadosCaracteres.txt
+Objeto de la prueba: comprobar que una entrada con demasiados caracteres no se admite como entrada
+Valores estudiados: Caja blanca. Se estudia el código para ver que se comprueba que la entrada
+                    no tiene demasiados caracteres.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar la entrada de prueba.
+Operativa: Se ejecuta el programa, se intentará crear una entrada importando demasiadosCaracteres y se
+           verá que no se puede guardar la entrada porque tiene demasiados caracteres.
+
+Juego de prueba: inputVacio.txt
+Objeto de la prueba: comprobar que una entrada vacia no se admite como entrada
+Valores estudiados: Caja blanca. Se estudia el código para ver que se comprueba que la entrada
+                    no tiene texto.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar la entrada de prueba.
+Operativa: Se intentará importar este input y se verá como no se puede guardar
+           la entrada creada porque no tiene texto.
+
+Juego de prueba: listaCatalan.txt + textoCortoCatalan.txt
+Objeto de la prueba: comprobar que se pueden crear teclados con una lista y un texto
+Valores estudiados: Caja blanca. Se estudia el código para ver que se comprueba que las entradas usadas
+                    son texto y lista.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar la entrada de prueba.
+Operativa: Se ejecuta el programa, se crearan varias entradas o se usaran entradas ya creadas
+           y se creará un teclado con esas entradas. Este en concreto se ha creado con el alfabeto catalan.
+
+posibles resultados:
+QAP:
+b e s t d f g h i j
+r a p o k m n q u v
+   c l ç w x y z
+
+Annealing:
+k c a l ç v z d b j
+x w r p o u f y m g
+   h e s t q n i
+
+Juego de prueba: Todos los textos y listas anteriores (que no causen errores)
+Objeto de la prueba: comprobar que se pueden crear teclados con diveras entradas y de varios tipos
+Valores estudiados: Caja blanca. Se estudia el código para ver que se comprueba que las entradas usadas
+                    son texto y lista.
+Efectos estudiados: Indirectamente se estudiará que los menus funcionan correctamente
+                    ya que se usan para seleccionar la entrada de prueba.
+Operativa: Se ejecuta el programa, se crearan varias entradas o se usaran entradas ya creadas
+           y se creará un teclado con esas entradas. Este en concreto se ha creado con el alfabeto catalan.
+
+posibles resultados:
+QAP:
+ñ q y b h t r s u g
+z x j w l a e o p f
+  k ç v c i n d m
+
+Annealing:
+k ñ y g l a s t h w
+z j b m u r e i c x
+  ç q f p o n d v

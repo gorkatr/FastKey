@@ -1,0 +1,15 @@
+En este directorio se encuentra la siguiente documentacion:
+
+Diagrama casos de uso: Contiene el diagrama con los casos de uso.
+
+Diagrama de clases: Contiene el diagrama UML de la 3a entrega.
+
+Diagrama Dominio: Contiene el diagrama UML del Dominio.
+
+Diagrama Persistencia: Contiene el diagrama UML de Persistencia.
+
+Diagrama Presentacion: Contiene el diagrama UML de Presentacion.
+
+Document 3a Entrega: Contiene toda la documentación del proyecto.
+
+Manual Usuario: Contiene el manual de uso del proyecto

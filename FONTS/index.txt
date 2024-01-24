@@ -1,0 +1,19 @@
+En este directorio se encuentra el codigo de las diferentes clases y funcionalidades y el Makefile a usar para la compilacion.
+El directorio esta dividido en packages y contiene tantas carpetas como packages tiene el sistema.
+
+>GestionDatos: Este directorio contiene todos los .java de la capa de Datos.
+
+>Dominio: Este directorio contiene todos los .java de la capa de dominio
+
+>Excepciones: Este directorio contiene todos los .java de las excepciones creadas para el proyecto.
+
+>Presentacion: Este directorio contiene todos los .java de la capa de presentacion.
+
+>Persistencia: Este directorio contiene todos los .java de la capa de persistencia.
+
+>lib: Este directorio contiene las librerías usadas para el funcionamiento del sistema.
+
+>Tests: Este directorio contiene los tests realizados para el sistema.
+
+>Makefile: usado para la compilación de las clases, envian los ".class" a la carpeta EXE, para
+           generar el ejecutable del sistema (.jar) y para la ejecucion del sistema.

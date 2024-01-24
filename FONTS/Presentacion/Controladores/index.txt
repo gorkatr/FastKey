@@ -1,0 +1,5 @@
+--> CONTROLADORES
+
+>Listeners: Contiene los Action Listeners necesarios para hacer funcionales los botones del menu.
+
+>CtrlPresentacion: Es el controlador de la capa de presentacion y permite comunicarse con la capa de dominio.

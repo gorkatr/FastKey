@@ -1,0 +1,24 @@
+En este directorio encontraras las distintas carpetas que componen el proyecto, el
+archivo README y un documento de texto que contiene informacion sobre los miembros del grupo.
+
+>DOCS: contiene la documentacion requerida por las normativas del proyecto.
+
+>EXE: incluye los ejecutables del programa para probar las clases o funcionalidades
+      implementadas, asi como juegos de prueba. Hay un subdirectorio para cada clase
+      que se va a probar, con los ejecutables necesarios, datos del juego de prueba
+      y una descripcion del mismo.
+
+>FONTS: clases implementadas por el equipo, incluyendo stubs y drivers. Los subdirectorios
+        siguen la estructura de paquetes para permitir la recompilacion directa del codigo.
+        Incluye un archivo de Makefile con las opciones para compilar los drivers.
+
+>DATA: contiene el almacenamiento de datos en persistencia asi como las imagenes usadas
+       en el programa.
+
+>lib: contiene las librerias necesarias para la ejecucion del programa.
+
+>.gitignore: archivo que contiene los archivos que no se deben subir al repositorio.
+
+>EQUIPO.txt: archivo que contiene la informacion de los miembros del equipo.
+
+>README.md: archivo que contiene la informacion del proyecto.

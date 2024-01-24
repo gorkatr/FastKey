@@ -1,0 +1,7 @@
+>CLASS: directorio con todos los .class generados al compilar el Makefile organizado por packages.
+
+>APP: Contine el .jar de la aplicación.
+
+>JuegosDePrueba: Contiene los juegos de prueba usados para el proyecto
+
+>resultadosJuegosDePrueba: Contiene la documentación y justificación de los juegos de prueba.

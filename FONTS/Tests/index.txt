@@ -1,0 +1,28 @@
+Este es el directorio donde se encuentran todos los test.
+Están testeadas todas las funciones publicas de todas las clases.
+
+>AlfabetosTest: Test de la clase Alfabetos
+
+>AlgoritmoTest: Test de la clase Algoritmo
+
+>EntradaTest: Test de la clase Entrada
+
+>GilmoreLawlerTest: Teste de la clase GilmoreLawler
+
+>HungarianTest: Test de la clase Hungarian
+
+>ListaTest: Test de la clase Lista
+
+>PairTest: Test de la clase Pair
+
+>PosicionTest: Test de la clase Posicion
+
+>QapTest: Test de la clase Qap
+
+>SimulaatedAnnealingTest: Test de la clase SimulatedAnnealing
+
+>TecladoTest: Test de la clase Teclado
+
+>TextoTest: Test de la clase Texto
+
+>TestSuite: Clase para ejecutar todos los test de golpe

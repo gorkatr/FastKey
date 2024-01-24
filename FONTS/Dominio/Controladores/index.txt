@@ -1,0 +1,10 @@
+Este directorio contiene los controladores de la capa de dominio asi como de las
+clases de esta capa.
+
+>CtrlDominio: Permite comunicar esta capa con la capa de presentacion y con la de persistencia.
+
+>CtrlTeclados: Controlador de la clase Teclados.
+
+>CtrlEntradas: Controlador de la clase Entradas.
+
+>CtrlAlfabetos: Controlador de la clase Alfabetos.

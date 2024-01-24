@@ -1,0 +1,53 @@
+En este directorio estan las clases que generan el menu interactivo de la aplicacion. Asi como los
+Action Listeners necesario para hacer funcionales los botones del menu. Ademas esta el controlador
+de Action Listeres.
+
+--> VISTAS
+
+>VistaMenuPrincipal: Vista interactiva para el menu principal.
+
+>VistaMenuGenerar: Vista interactiva para generar un teclado.
+
+>VistaMenuGestionar: Vista interactiva para gestionar los teclados.
+
+>VistaMenuVisualizar: Vista interactiva para visualizar un teclado.
+
+>VistaSeleccionarEntradas: Vista interactiva para seleccionar las entradas de un teclado.
+
+>VistaEditarEntrada: Vista interactiva para editar una entrada de un teclado.
+
+--> LOGICA
+
+>Main: Archivo principal de la aplicacion.
+
+>ActualizarEntradasAction: Contiene la logica para actualizar las entradas de un teclado.
+
+>AtrasEditarAction: Contiene la logica para volver a la vista de seleccionar entradas.
+
+>CompararAction: Contiene la logica para comparar dos teclados.
+
+>CrearEntradaAction: Contiene la logica para crear una entrada.
+
+>EliminarEntradaAction: Contiene la logica para eliminar una entrada.
+
+>EliminarTecladoAction: Contiene la logica para eliminar un teclado.
+
+>GenerarAction: Contiene la logica para generar un teclado.
+
+>GuardarEntradaAction: Contiene la logica para guardar una entrada.
+
+>ImportarAction: Contiene la logica para importar contenido desde un archivo txt.
+
+>ListaCheckBox: Contiene la logica para crear una lista de checkbox.
+
+>ModificarAction: Contiene la logica para modificar una entrada.
+
+>PlaceholderFocusListener: Contiene la logica para crear un placeholder en un campo de texto.
+
+>ReemplazarAction: Contiene la logica para reemplazar dos teclados.
+
+>RenombrarEntradaAction: Contiene la logica para renombrar una entrada.
+
+>RenombrarTecladoAction: Contiene la logica para renombrar un teclado.
+
+>SeleccionarEntradasAction: Contiene la logica para seleccionar una o varias entradas.
